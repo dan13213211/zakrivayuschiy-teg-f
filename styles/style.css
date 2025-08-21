@@ -16,6 +16,7 @@
   background-size: cover;
   background-attachment: fixed;
   padding-top: 100px;
+  font-variation-settings: "wgth" 400;
 }
 
 .block_size {
@@ -65,6 +66,7 @@
   background-color: var(--stroke-color);
   border: 2px solid var(--contour-color);
   border-bottom: none;
+  font-variation-settings: "wght" 715;
 
   padding-left: 10px;
   padding-right: 10px;
@@ -124,6 +126,7 @@
   padding-right: 25px;
   line-height: 21px;
   font-weight: 410;
+  font-variation-settings: "wght" 410;
 }
 
 .section_text_like {
